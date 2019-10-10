@@ -15,4 +15,4 @@ Add text to photo
 * input your image url
 * input your watermark image url
 * choose the position
-* finfish! See the output file.
+* finish! See the output file.
