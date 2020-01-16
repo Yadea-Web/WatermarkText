@@ -16,3 +16,5 @@ Add text to photo
 * input your watermark image url
 * choose the position
 * finish! See the output file.
+
+如果报错应该是python版本不对，需要用python3
